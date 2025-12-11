@@ -43,7 +43,7 @@ Ce projet présente une **analyse exploratoire des catastrophes naturelles**, av
 
 ## 📂 Structure du projet
 
-catastrophes_naturelles/
+catastrophes_naturelles
 │
 ├── data/
 │   ├── raw/                  # Données brutes (ex: EM-DAT, Banque Mondiale)
