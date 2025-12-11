@@ -43,27 +43,22 @@ Ce projet présente une **analyse exploratoire des catastrophes naturelles**, av
 
 ## 📂 Structure du projet
 
-catastrophes_naturelles/
-  ├── data/
-  │   ├── raw/              # Données brutes (EM-DAT, Banque Mondiale…)
-  │   ├── processed/        # Données nettoyées
-  │   └── external/         # Données externes (IDH, PIB…)
-  │
-  ├── notebooks/
-  │   ├── 1_nettoyage.ipynb       # Nettoyage et préparation
-  │   ├── 2_analyse.ipynb         # Analyses statistiques
-  │   └── 3_visualisation.ipynb   # Graphiques et dashboards
-  │
-  ├── scripts/
-  │   ├── utils.py         # Fonctions utilitaires
-  │   └── config.py        # Chemins & variables globales
-  │
-  ├── outputs/
-  │   ├── figures/         # Graphiques exportés
-  │   └── reports/         # Rapports & présentations
-  │
-  ├── README.md
-  └── requirements.txt
+- **data/**
+  - raw/ — Données brutes (EM-DAT, Banque Mondiale…)
+  - processed/ — Données nettoyées
+  - external/ — Données externes (IDH, PIB…)
+- **notebooks/**
+  - 1_nettoyage.ipynb — Nettoyage des données
+  - 2_analyse.ipynb — Analyses statistiques
+  - 3_visualisation.ipynb — Visualisations et dashboards
+- **scripts/**
+  - utils.py — Fonctions utilitaires
+  - config.py — Chemins & variables globales
+- **outputs/**
+  - figures/ — Graphiques exportés
+  - reports/ — Rapports / présentations
+- README.md
+- requirements.txt
 
 ---
 
