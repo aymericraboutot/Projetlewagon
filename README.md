@@ -37,7 +37,7 @@ Ce projet présente une **analyse exploratoire des catastrophes naturelles**, av
 
 ### Conclusion
 **Les pays en développement et politiquement instables sont les plus vulnérables.**
-→ Nécessité d’une **coopération internationale** pour la prévention et la gestion des crises.
+→ Nécessité d’une **intervention extérieure** pour la prévention et la gestion des crises.
 
 ---
 
