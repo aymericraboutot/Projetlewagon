@@ -45,6 +45,8 @@ Ce projet présente une **analyse exploratoire des catastrophes naturelles**, av
 Source principale : 
 https://www.emdat.be/
 
+global_disaster_1980-2025.xlsx
+
 Sources secondaires :
 PIB_hab_constant, Population, Urban_population, human-development-index : https://data.worldbank.org/
 
