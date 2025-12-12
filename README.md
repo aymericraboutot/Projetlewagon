@@ -40,8 +40,13 @@ Ce projet présente une **analyse exploratoire des catastrophes naturelles**, av
 → Nécessité d’une **intervention extérieure** pour la prévention et la gestion des crises.
 
 ---
+### Sources du dataset
 
+Source principale : 
+https://www.emdat.be/
 
+Sources secondaires :
+PIB_hab_constant, Population, Urban_population, human-development-index : https://data.worldbank.org/
 
 ---
 
